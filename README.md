@@ -15,4 +15,4 @@ or later. FreeCAD's source code: <https://github.com/FreeCAD/FreeCAD/tree/1.1.4>
 with or endorsed by the FreeCAD project. The licence texts come with the installer and are at
 <https://fabwren.com/licenses>.
 
-Questions: support@fabwren.com
+Questions: contact@fabwren.com
